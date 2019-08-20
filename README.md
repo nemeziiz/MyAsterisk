@@ -1,2 +1,2 @@
 # MyAsterisk
-Print Asterisk For Waiting
+Print Asterisk For Waiting :)
