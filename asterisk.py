@@ -14,4 +14,4 @@ for r in range(10):
             print("\b", end="")
     print("*", end="")
 print()
-# From Milad Bahreini
+# From Milad
